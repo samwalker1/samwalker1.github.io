@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://samwalker1.github.io
+title: ExpertDC
+email: 
+author: samwalker1
+description: My awesome new site
+paginate: 3
+google_analytics: 
